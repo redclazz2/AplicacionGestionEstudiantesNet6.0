@@ -81,7 +81,6 @@ while (inMenu == 1)
 
         case (3):
             int aprueba=0, pierde=0;
-            float porcentajeAprueba, PorcertajePierde;
 
             for(int i = 0; i<cantidadEstudiantes; i++) 
             {
